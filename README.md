@@ -1,5 +1,6 @@
-# xmrig-installer
-Installs latest release of xmrig for Debian/ Ubuntu Linux.
+# The xmrig-installer
+Install/ update the latest release of xmrig for Debian/ Ubuntu Linux, and makes a back up of the previous installed version.
+Can be conveniently used for unattend updates through cron.
 
 ## Usage:
 ```
