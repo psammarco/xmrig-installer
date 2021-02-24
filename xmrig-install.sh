@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Updates latest version of the xmrig miner for Linux x64 availabe on xmrig's github repo.
-#
-# Author: Pietro Sammarco 
+
 
 workdir="/tmp"
 
